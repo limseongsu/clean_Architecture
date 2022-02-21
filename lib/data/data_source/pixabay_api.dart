@@ -16,6 +16,4 @@ class PixabayApi {
      final List hits = jsonResponse["hits"];
      return hits;
   }
-
-
 }
